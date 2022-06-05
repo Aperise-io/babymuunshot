@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://Muuninu.com',
+    href: '.',
   },
   {
     label: 'Trade',
@@ -34,12 +34,12 @@ const config: MenuEntry[] = [
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://babymuunshot.com/lottery',
+  //   href: '/lottery',
   // },
   // {
   //   label: 'NFT',
   //   icon: 'NftIcon',
-  //   href: 'https://babymuunshot.com/nft',
+  //   href: '/nft',
   // },
   // {
   //   label: 'Teams & Profile',
@@ -48,15 +48,15 @@ const config: MenuEntry[] = [
   //   items: [
   //     {
   //       label: 'Leaderboard',
-  //       href: 'https://babymuunshot.com/teams',
+  //       href: '/teams',
   //     },
   //     {
   //       label: 'Task Center',
-  //       href: 'https://babymuunshot.com/profile/tasks',
+  //       href: '/profile/tasks',
   //     },
   //     {
   //       label: 'Your Profile',
-  //       href: 'https://babymuunshot.com/profile',
+  //       href: '/profile',
   //     },
   //   ],
   // },
@@ -85,7 +85,7 @@ const config: MenuEntry[] = [
   // {
   //   label: 'IFO',
   //   icon: 'IfoIcon',
-  //   href: 'https://babymuunshot.com/ifo',
+  //   href: '/ifo',
   // },
   // {
   //   label: 'More',
