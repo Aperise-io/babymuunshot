@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://Muun_inu.com',
+    href: 'https://Muuninu.com',
   },
   {
     label: 'Trade',
@@ -13,23 +13,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '/swap',
+        href: '.',
       },
       {
         label: 'Liquidity',
-        href: '/pool',
+        href: '.',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://Muun_inu.com/farms',
+    href: '.',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://Muun_inu.com/syrup',
+    href: '.',
   },
   // {
   //   label: 'Lottery',
