@@ -2382,24 +2382,24 @@ var links = [
         ],
     },
     {
-        label: "Farms",
+        label: "Farms-Soon",
         icon: "FarmIcon",
-        href: "/farms",
+        href: ".",
     },
     {
-        label: "Pools",
+        label: "Pools - soon",
         icon: "PoolIcon",
-        href: "/syrup",
+        href: ".",
     },
     {
-        label: "Lottery",
+        label: "Lottery-soon",
         icon: "TicketIcon",
-        href: "/lottery",
+        href: ".",
     },
     {
-        label: "NFT",
+        label: "NFT-soon",
         icon: "NftIcon",
-        href: "/nft",
+        href: ".",
     },
     {
         label: "Profile & Teams",

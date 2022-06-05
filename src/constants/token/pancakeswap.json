@@ -34,12 +34,12 @@
       "logoURI": "/images/coins/BUSD.png"
     },
     {
-      "name": "MuunInu",
-      "symbol": "MUUNI",
-      "address": "0x462849cb6d78beee039a0b0df245d087cb692a21",
+      "name": "Baby Muun Shot",
+      "symbol": "BMS",
+      "address": "0xf25E5d2bc6F80ee53C929Df0b9B83a88D8234667",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/MUUNI.png"
+      "logoURI": "/images/coins/bms.png"
     }     
   ]
 }
