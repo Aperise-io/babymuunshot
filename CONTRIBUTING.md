@@ -1,4 +1,4 @@
-# Contributing to the Muun_inu ecosystem
+# Contributing to the babymuunshot ecosystem
 
 Thanks for taking the time to contribute !
 

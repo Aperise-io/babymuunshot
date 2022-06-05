@@ -2482,14 +2482,14 @@ var socials = [
         items: [
             {
                 label: "Official Channel",
-                href: "https://t.me/Muun_inuChat",
+                href: "https://t.me/babymuunshotChat",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/Muun_inu",
+        href: "https://twitter.com/babymuunshot",
     },
 ];
 var MENU_HEIGHT = 64;

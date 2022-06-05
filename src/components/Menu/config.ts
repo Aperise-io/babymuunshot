@@ -34,12 +34,12 @@ const config: MenuEntry[] = [
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://Muun_inu.com/lottery',
+  //   href: 'https://babymuunshot.com/lottery',
   // },
   // {
   //   label: 'NFT',
   //   icon: 'NftIcon',
-  //   href: 'https://Muun_inu.com/nft',
+  //   href: 'https://babymuunshot.com/nft',
   // },
   // {
   //   label: 'Teams & Profile',
@@ -48,15 +48,15 @@ const config: MenuEntry[] = [
   //   items: [
   //     {
   //       label: 'Leaderboard',
-  //       href: 'https://Muun_inu.com/teams',
+  //       href: 'https://babymuunshot.com/teams',
   //     },
   //     {
   //       label: 'Task Center',
-  //       href: 'https://Muun_inu.com/profile/tasks',
+  //       href: 'https://babymuunshot.com/profile/tasks',
   //     },
   //     {
   //       label: 'Your Profile',
-  //       href: 'https://Muun_inu.com/profile',
+  //       href: 'https://babymuunshot.com/profile',
   //     },
   //   ],
   // },
@@ -85,7 +85,7 @@ const config: MenuEntry[] = [
   // {
   //   label: 'IFO',
   //   icon: 'IfoIcon',
-  //   href: 'https://Muun_inu.com/ifo',
+  //   href: 'https://babymuunshot.com/ifo',
   // },
   // {
   //   label: 'More',
@@ -93,7 +93,7 @@ const config: MenuEntry[] = [
   //   items: [
   //     {
   //       label: 'Voting',
-  //       href: 'https://voting.Muun_inu.com',
+  //       href: 'https://voting.babymuunshot.com',
   //     },
   //     {
   //       label: 'Github',
@@ -101,7 +101,7 @@ const config: MenuEntry[] = [
   //     },
   //     {
   //       label: 'Docs',
-  //       href: 'https://docs.Muun_inu.com',
+  //       href: 'https://docs.babymuunshot.com',
   //     },
   //     {
   //       label: 'Blog',
